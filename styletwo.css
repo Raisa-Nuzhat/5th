@@ -1,0 +1,266 @@
+/* .class1 h1 { 
+text-align: center;
+font-size: 40px;
+font-family: Impact;
+color: blueviolet;
+}
+.class1 p{
+    text-align: justify;
+    font-family: cursive;
+    font-size: 30px;
+}*/
+
+.post
+{
+    width: 400px;
+    padding: 30px 40px;
+    box-sizing: border-box;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color:rgb(18, 19, 19);
+    background-image: url(./banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: cursive;
+    border-radius: 20px;
+}
+.post h1{
+    text-align: center;
+    font-size: 40px;
+}
+.post
+{
+    text-align: justify;
+}
+.raisa
+{
+    width: 400px;
+    padding: 30px 40px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color:rgb(18, 19, 19);
+    background-image: url(./banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: cursive;
+    border-radius: 20px;
+}
+.raisa h1{
+    text-align: center;
+    font-size: 40px;
+}
+.raisa
+{
+    text-align: justify;
+}
+
+.content
+{
+    width: 400px;
+    padding: 30px 40px;
+    box-sizing: border-box;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color:rgb(18, 19, 19);
+    background-image: linear-gradient(to right,#12c2e9,#c471ed,#f64f59);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: cursive;
+    border-radius: 50px;
+   
+}
+.content h1{
+    text-align: center;
+    font-size: 40px;
+}
+.content
+{
+    text-align: justify;
+}
+.maruf
+{
+    width: 400px;
+    padding: 30px 40px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color:rgb(18, 19, 19);
+    background-image: linear-gradient(to right,#12c2e9,#c471ed,#f64f59);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: cursive;
+    border-radius: 50px;
+   
+}
+.maruf h1{
+    text-align: center;
+    font-size: 40px;
+}
+.maruf
+{
+    text-align: justify;
+}
+.jersey
+{
+    width: 400px;
+    padding: 30px 40px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color:rgb(18, 19, 19);
+    background-image: linear-gradient(to right,#12c2e9,#c471ed,#7c4ff6);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: cursive;
+    border-radius: 50px;
+   
+}
+.jersey h1{
+    text-align: center;
+    font-size: 40px;
+}
+.jersey
+{
+    text-align: justify;
+}
+.captain
+{
+    width: 400px;
+    padding: 30px 40px;
+    box-sizing: border-box;
+    margin: auto;
+    
+    color:rgb(18, 19, 19);
+    background-image: linear-gradient(to right,#12c2e9,#e1ed71,#f64f59);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: cursive;
+    border-radius: 50px;
+   
+}
+.captain h1{
+    text-align: center;
+    font-size: 40px;
+}
+.captain
+{
+    text-align: justify;
+}
+.fourth
+{
+    width: 400px;
+    padding: 30px 40px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-top: 40px;
+    margin-bottom: auto;
+    color:rgb(18, 19, 19);
+    background-image: linear-gradient(to right,#e97a12,#ed7196,#ec969c);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: cursive;
+    border-radius: 50px;
+   
+}
+.fourth h1{
+    text-align: center;
+    font-size: 40px;
+}
+.fourth
+{
+    text-align: justify;
+}
+.card
+{
+    
+    padding: 30px 40px;
+    width: 400px;
+    height: 400px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    margin: 20px auto;
+    color:rgb(18, 19, 19);
+    background-image: linear-gradient(to left,#DE6262,#FFB88C);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: cursive;
+    border-radius: 50%;
+   
+}
+.card h1{
+    text-align: center;
+    font-size: 40px;
+}
+.card
+{
+    text-align: justify;
+}
+.ten
+{
+    
+    padding: 30px 40px;
+    width: 400px;
+    height: 400px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    margin: 20px auto;
+    color:rgb(18, 19, 19);
+    background-image: linear-gradient(to left,#c7de62,#a7ff8c);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: cursive;
+    border-radius: 50%;
+   
+}
+.ten h1{
+    text-align: center;
+    font-size: 40px;
+}
+.ten
+{
+    text-align: justify;
+}
+.nuzhat
+{
+    
+    padding: 30px 40px;
+    width: 400px;
+    height: 400px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    margin: 20px auto;
+    color:rgb(18, 19, 19);
+    background-image: linear-gradient(to left,#d062de,#FFB88C);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: cursive;
+    border-radius: 50%;
+   
+}
+.nuzhat h1{
+    text-align: center;
+    font-size: 40px;
+}
+.nuzhat
+{
+    text-align: justify;
+}
